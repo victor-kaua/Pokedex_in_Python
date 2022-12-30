@@ -20,6 +20,10 @@ The program shows the information of a given Pokémon, from the initial ones up 
 >- Velocidade.
 
 ## Instructions
+
+<img src="https://media1.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="260" align="right"/>
+
+
 - Open your terminal, install the Tkinter;
 >Abra o seu terminal, instale o Tkinter.
 ```txt
